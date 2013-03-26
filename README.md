@@ -1,5 +1,6 @@
 A little hobby os
 ==================================================
+<br/>
 Author: *vonnyfly*
 Email: *lifeng1519@gmail.com*
 ***
@@ -10,9 +11,10 @@ Prerequisite
 ***
 Comiple
 ===================================================
-* gcc
-* nasm
+
 ***
+
+
 Schedule
 =====================================================
 1.  [] Let grub boot my litter kernel and jump to C language main function.
